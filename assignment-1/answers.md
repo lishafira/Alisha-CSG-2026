@@ -34,9 +34,9 @@
 
 6. **Mengapa kita tidak melihat efek interferensi saat melempar bola melalui dua pintu?**
 
-   Panjang gelombang de Broglie dari sebuah bola makroskopik dirumuskan sebagai:
+   Panjang gelombang de Broglie dari sebuah bola dirumuskan sebagai:
    `λ = h / p`  
-   Nilai panjang gelombang ini sangatlah kecil hingga mendekati nol dibandingkan dengan ukuran pintu dan jarak antar pintu. Akibatnya, sifat gelombang makroskopik teredam secara ekstrem dan bola sepenuhnya mengikuti hukum mekanika klasik.
+   Nilai panjang gelombang ini sangat kecil hingga mendekati nol dibandingkan dengan ukuran pintu dan jarak antar pintu. Akibatnya, sifat gelombang makroskopik teredam secara ekstrem dan bola sepenuhnya mengikuti hukum mekanika klasik.
 
 ---
 
