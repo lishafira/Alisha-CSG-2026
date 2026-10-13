@@ -114,6 +114,18 @@ Natrium memiliki *work function* φ = 2.28 eV.
 
 ---
 
+## Simulasi PhET
+
+### 1. Pola Interferensi Foton
+![Pola Interferensi Foton](phet_foton.jpeg)
+
+### 2. Pola Interferensi Elektron
+![Pola Interferensi Elektron](phet_elektron.jpeg)
+
+Sumber foton dengan panjang gelombang λ = 697 nm dengan jarak celah 280 µm, dan jarak layar 0.60 m. Terlihat foton menembus celah ganda terakumulasi dan membentuk pola interferensi gelombang pada layar detektor. Hal ini menunjukkan sifat gelombang dari cahaya. Untuk elektronnya sendiri menggunakan sumber elektron dengan kecepatan partikel 660 km/s (mₑ = 9.1 × 10⁻³¹ kg), jarak celah 1.0 µm, dan jarak layar 0.64 m, tembakan partikel elektron secara kumulatif juga menghasilkan pola interferensi berupa garis-garis terang dan gelap pada layar detektor. Fenomena ini membuktikan adanya dualisme gelombang-partikel, di mana partikel bermassa (seperti elektron) turut menampilkan karakteristik interferensi gelombang. Foton dan elektron yang ditembakkan melalui celah ganda secara kumulatif membentuk pola interferensi garis terang dan gelap pada layar detektor, membuktikan dualisme gelombang-partikel. Berdasarkan persamaan λ = h / (m · v), jika kecepatan elektron dinaikkan, momentum linear bertambah dan panjang gelombang mengecil, sehingga jarak antar-pita interferensi menjadi lebih rapat. Sebaliknya, kecepatan rendah menghasilkan pita yang lebih renggang.
+
+---
+
 ## No. 5
 
 ### Menggenggam Peluang Komputasi Masa Depan Melalui Qubit
