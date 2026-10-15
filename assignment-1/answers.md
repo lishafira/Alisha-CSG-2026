@@ -125,19 +125,3 @@ Natrium memiliki *work function* φ = 2.28 eV.
 Sumber foton dengan panjang gelombang λ = 697 nm dengan jarak celah 280 µm, dan jarak layar 0.60 m. Terlihat foton menembus celah ganda terakumulasi dan membentuk pola interferensi gelombang pada layar detektor. Hal ini menunjukkan sifat gelombang dari cahaya. Untuk elektronnya sendiri menggunakan sumber elektron dengan kecepatan partikel 660 km/s (mₑ = 9.1 × 10⁻³¹ kg), jarak celah 1.0 µm, dan jarak layar 0.64 m, tembakan partikel elektron secara kumulatif juga menghasilkan pola interferensi berupa garis-garis terang dan gelap pada layar detektor. Fenomena ini membuktikan adanya dualisme gelombang-partikel, di mana partikel bermassa (seperti elektron) turut menampilkan karakteristik interferensi gelombang. Foton dan elektron yang ditembakkan melalui celah ganda secara kumulatif membentuk pola interferensi garis terang dan gelap pada layar detektor, membuktikan dualisme gelombang-partikel. Berdasarkan persamaan λ = h / (m · v), jika kecepatan elektron dinaikkan, momentum linear bertambah dan panjang gelombang mengecil, sehingga jarak antar-pita interferensi menjadi lebih rapat. Sebaliknya, kecepatan rendah menghasilkan pita yang lebih renggang.
 
 ---
-
-## No. 5
-
-### Menggenggam Peluang Komputasi Masa Depan Melalui Qubit
-
-Komputasi kuantum merupakan salah satu inovasi teknologi revolusioner di abad ke-21. Berbeda dengan komputer klasik yang memproses informasi menggunakan bit biner (0 atau 1), komputer kuantum memanfaatkan prinsip fundamental mekanika kuantum, yakni superposisi dan keterikatan (*entanglement*), untuk mengolah data secara masif dan simultan.
-
-Prinsip utama yang dieksploitasi adalah superposisi di mana unit informasi kuantum atau disebut sebagai qubit dapat berada dalam kombinasi linear keadaan |0⟩ dan |1⟩ secara bersamaan. Dengan N qubit, sistem kuantum dapat merepresentasikan 2^N keadaan sekaligus. Hal ini memberikan percepatan eksponensial atau *quantum speedup* untuk menyelesaikan permasalahan komputasi yang sangat rumit, seperti simulasi molekul obat baru, optimasi logistik skala besar hingga pemecahan sandi kriptografi modern.
-
-Sebagai contoh nyata, pada tahun 2019, Google AI Quantum mengumumkan pencapaian *quantum supremacy* menggunakan prosesor kuantum berbasis superkonduktor bernama Sycamore. Dalam eksperimen tersebut, Sycamore mampu menyelesaikan tugas komputasi khusus dengan pengambilan sampel dari sirkuit kuantum acak dalam waktu 200 detik, yang diklaim membutuhkan waktu sekitar 10.000 tahun jika dikerjakan oleh superkomputer klasik tercepat saat itu (Arute et al., 2019).
-
-Bidang ini masih menghadapi tantangan utama, yaitu dekoherensi kuantum dan tingkat kesalahan atau *error rate* yang tinggi. Qubit sangat sensitif terhadap gangguan termal dan elektromagnetik dari lingkungan sekitar, sehingga informasi kuantum mudah rusak sebelum komputasi selesai. Oleh karena itu, pengembangan kode koreksi kesalahan kuantum (*quantum error correction*) menjadi fokus riset yang krusial di berbagai laboratorium riset dunia seperti IBM Quantum dan Google Quantum AI.
-
-### Referensi
-1. Arute, F., *et al.* (2019). Quantum supremacy using a programmable superconducting processor. *Nature*, **574**(7779), 505--510.
-2. Nielsen, M. A., & Chuang, I. L. (2010). *Quantum Computation and Quantum Information*. Cambridge University Press.
